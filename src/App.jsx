@@ -77,7 +77,7 @@ function App() {
         >
           <div className="w-full max-w-3xl mx-auto shadow-lg rounded-lg px-6 py-5 bg-white dark:bg-gray-800 dark:text-gray-200">
             <h1 className="text-3xl font-bold text-center mb-8 text-blue-600 dark:text-blue-400">
-              Manage Your Task on the GO
+            TaskMaster Pro
             </h1>
             <div className="flex justify-end mb-4">
               <ThemeBtn />
