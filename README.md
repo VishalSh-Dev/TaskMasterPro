@@ -21,8 +21,8 @@ A modern, feature-rich task management application built with React and Context 
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="Screenshots/light.png" alt="Light Theme" width="400"/>
-  <img src="Screenshots/dark.png" alt="Dark Theme" width="400"/>
+  <img src="Screenshots/Light.png" alt="Light Theme" width="400"/>
+  <img src="Screenshots/Dark.png" alt="Dark Theme" width="400"/>
 </div>
 
 ## 🚀 Getting Started
@@ -41,19 +41,19 @@ A modern, feature-rich task management application built with React and Context 
    ```
 2. Install dependencies
 
-```bash
-npm install
-# or
-yarn
-```
+    ```bash
+    npm install
+    # or
+    yarn
+    ```
 
 3. Start the development server
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
 
 4. Open your browser and navigate to http://localhost:5173
 
